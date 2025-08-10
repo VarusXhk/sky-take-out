@@ -8,7 +8,7 @@ sky:
     password: 080100
 
   alioss:
-    endpoint: t0pyj1lor.hd-bkt.clouddn.com
-    access-key-id: ddnYhgLl4cztkvH1rsOcoWJFS0ablGELOTDezlcK
-    access-key-secret: P5egwvj67MUC9GU3M7MhTGcSHCdk2OIwyM9MWHWO
-    bucket-name: hunky
+    endpoint:
+    access-key-id:
+    access-key-secret:
+    bucket-name:

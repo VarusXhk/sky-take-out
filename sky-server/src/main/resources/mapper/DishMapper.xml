@@ -22,4 +22,11 @@
             </if>
         </where>
     </select>
+
+    <delete id="deleteByIds">
+        delete from dish where id in
+        <foreach collection="ids" separator="," item="id" open="(" close=")">
+            #{id}
+        </foreach>
+    </delete>
 </mapper>
